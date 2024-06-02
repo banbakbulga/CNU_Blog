@@ -1,6 +1,7 @@
 import { NavLink, Outlet } from 'react-router-dom';
 import styled from '@emotion/styled';
 
+
 const Nav = styled.div`
   display: flex;
   align-items: center;
